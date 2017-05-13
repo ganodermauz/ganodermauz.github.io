@@ -39,89 +39,6 @@
       },
       "components": [
         {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#efefef"
-            },
-            ".link, .dropdown-item": {
-              "color": "#efefef"
-            },
-            ".link": {
-              "font-size": "1.15rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#343e57"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#414e6d!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#475577"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#efefef",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-0",
-          "_params": {
-            "bgColor": "#475577",
-            "fontSize": "1.15",
-            "fontName": {},
-            "fontColor": "#efefef",
-            "fontHoverColor": "#c0a375",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20161131923481.png",
-              "height": 128,
-              "alt": "Gano Execl",
-              "link": "https://mobirise.com",
-              "title": "Biznes hamkoringiz",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-h\" aria-expanded=\"false\"><span class=\"mbri-mobile2 mbr-iconfont mbr-iconfont-btn\"></span>Tel; +998(91)637-36-76</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts4-1e\">Hamkor Bo'lish</a></li>"
-        },
-        {
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
@@ -364,7 +281,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20161113193200.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-123453t635y4.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -408,7 +325,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fon.uz.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-123453t635y4-1.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -761,8 +678,8 @@
             "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/ganodsc04991.jpg",
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/redreishi.gif",
             "bgColor": "#a38f84",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1171,7 +1088,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallup.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fon.uz.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1179,7 +1096,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000000",
             "inverse": false,
             "showButtons": true,
@@ -1214,7 +1131,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20161107231148.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/015.kollekciya-fullhd-oboev.jpeg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1271,7 +1188,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20161113222212.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/257.kollekciya-fullhd-oboev.jpg",
             "bgColor": "#303030",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1363,7 +1280,7 @@
             "overlayOpacity": "0.8",
             "overlayColor": "#000000"
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Noto Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Bugunoq bizga qo'shiling.</b></span></font><br><br><b>Tez orada menedjerlar siz bilan bog'lanishadi.</b><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Noto Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Bugunoq bizga qo'shiling.</b></span></font><br>tel;+998(91)637-36-76<br><b>Tez orada menedjerlar siz bilan bog'lanishadi.</b><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><b>Ismi Sharifingizni to'liq kiriting</b><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><b>Telefon raqamingizni kompaniya kodi bilan to'liq kiriting</b><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><b>Qaysi viloyatdan ekaningizni kiriting</b><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
           "form": {
             "title": "MESSAGE",
