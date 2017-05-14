@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "Gano Excel",
+    "name": "Gano",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/ge-gano-excell-34-1.png",
     "noImageResize": "true",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 54,
+    "uniqCompNum": 55,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -74,7 +74,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -281,7 +281,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-123453t635y4.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/101.kollekciya-fullhd-oboev.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -325,7 +325,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-123453t635y4-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/252.kollekciya-fullhd-oboev.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -378,7 +378,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1920x1080-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/009.kollekciya-fullhd-oboev.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -521,7 +521,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gano-234r5yu.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/080.kollekciya-fullhd-oboev.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -588,7 +588,7 @@
             "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ganodsc04991.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/redreishi.gif",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1088,7 +1088,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fon.uz.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hd-wallpaper.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1131,7 +1131,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/015.kollekciya-fullhd-oboev.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/308.kollekciya-fullhd-oboev.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1188,7 +1188,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/257.kollekciya-fullhd-oboev.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1920x1080-5.jpg",
             "bgColor": "#303030",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1273,7 +1273,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/020.kollekciya-fullhd-oboev.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1920x1080-6.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -1311,6 +1311,31 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Yuborish</a>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-1i",
+          "_params": {
+            "postsNumber": "10",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr.jpg",
+            "bgImageRadio": true,
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         }
       ]
     }
