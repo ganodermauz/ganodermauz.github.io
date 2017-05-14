@@ -66,7 +66,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20160620172112.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -281,7 +281,7 @@
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/101.kollekciya-fullhd-oboev.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -325,7 +325,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/252.kollekciya-fullhd-oboev.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -378,7 +378,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/009.kollekciya-fullhd-oboev.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -521,7 +521,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/080.kollekciya-fullhd-oboev.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -679,7 +679,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/redreishi.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9.jpg",
             "bgColor": "#a38f84",
             "bgColorRadio": false,
             "bgVideo": {
@@ -817,7 +817,7 @@
             "paddingBottom": 2,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ganodsc04991.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-10.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -955,7 +955,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ganodsc04991.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-11.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1088,7 +1088,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hd-wallpaper.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-12.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1131,7 +1131,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/308.kollekciya-fullhd-oboev.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-13.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1188,7 +1188,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1920x1080-5.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-14.jpg",
             "bgColor": "#303030",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1273,7 +1273,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1920x1080-6.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-15.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -1321,7 +1321,7 @@
           "_anchor": "facebook-comments-block-1i",
           "_params": {
             "postsNumber": "10",
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-16.jpg",
             "bgImageRadio": true,
             "bgColor": "#fff",
             "bgColorRadio": false,
